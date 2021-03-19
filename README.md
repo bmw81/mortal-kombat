@@ -6,4 +6,5 @@
 - CSS
 - Normalize
 - JQuery
+- Vide (JQuery)
 - Fancybox (JQuery)
